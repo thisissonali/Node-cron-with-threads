@@ -1,0 +1,17 @@
+{
+  "name": "node-cron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^5.0.1",
+    "mongoose": "^8.2.3",
+    "node-cron": "^3.0.3"
+  }
+}
